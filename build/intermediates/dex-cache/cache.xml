@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\github\dynamic-load-apk-master\PluginTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\github\dynamic-load-apk-master\PluginTest\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-23.3.0_069548b20e25b4ab1011caccb53b3fba40ecc58a.jar" />
+    </item>
+    <item
+        jar="G:\androidstudioinstall\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\github\dynamic-load-apk-master\PluginTest\app\build\intermediates\pre-dexed\release\support-annotations-23.3.0_e6f5e8d4aa3545f9034d86937cadaf13a2bfe864.jar" />
+    </item>
+    <item
+        jar="D:\github\dynamic-load-apk-master\PluginTest\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="D:\github\dynamic-load-apk-master\PluginTest\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-23.3.0_2e5f1d050129340ba0528d11dab977086cc8b6ff.jar" />
+    </item>
+    <item
+        jar="D:\github\dynamic-load-apk-master\PluginTest\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="D:\github\dynamic-load-apk-master\PluginTest\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-23.3.0_39e79662f29cf746a68c40b52de26c61b3c6bbd6.jar" />
+    </item>
+    <item
+        jar="D:\github\dynamic-load-apk-master\PluginTest\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="D:\github\dynamic-load-apk-master\PluginTest\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-23.3.0_fa011ba8adbc6d617e8c178372e523f16630c6b3.jar" />
+    </item>
+    <item
+        jar="D:\github\dynamic-load-apk-master\PluginTest\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\github\dynamic-load-apk-master\PluginTest\app\build\intermediates\pre-dexed\release\internal_impl-23.3.0_7278cd078fad67f9f5d2c7d98eaae78cc6816bef.jar" />
+    </item>
+
+</items>
